@@ -1,1 +1,1 @@
-Hello im mahfoz, This is test purpus text file.  some change for commit test
+Hello im mahfoz, This is test purpus text file. At first im create this file using cmd. then it staging the git repository. Then it for commit.
